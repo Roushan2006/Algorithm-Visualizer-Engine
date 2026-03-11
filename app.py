@@ -719,3 +719,4 @@ with tab_compare:
     plt.tight_layout()
     st.pyplot(fig2)
     plt.close(fig2)
+
