@@ -1,6 +1,6 @@
-# ⚡ AlgoViz — Algorithm Visualizer
+#  ⚙️ Algorithm Visualizer Engine
 
-A stunning Streamlit web application to **visualize**, **understand**, and **compare** Sorting & Searching algorithms — with downloadable source code in **4 languages**.
+A stunning Streamlit web application to **visualize**, **understand**, and **compare** Sorting & Searching algorithms — with downloadable source code in **5 languages**.
 
 ## 🚀 Getting Started
 
@@ -55,7 +55,7 @@ algo_visualizer/
 ## 🌟 Features
 - 🎬 **Step-by-step animation** with color-coded highlights
 - 📊 **Live stats** — comparisons, swaps, steps
-- 📄 **Source code** in Python, Java, C, JavaScript
+- 📄 **Source code** in Python, Java, C, C++, JavaScript
 - 📈 **Complexity comparison** charts
 - 🎛️ **Controls** — array size, animation speed, random arrays
 - 🎨 **Dark theme** with neon accents
