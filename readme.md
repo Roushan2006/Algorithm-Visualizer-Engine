@@ -2,7 +2,8 @@
 
 A stunning Streamlit web application to **visualize**, **understand**, and **compare** Sorting & Searching algorithms — with downloadable source code in **5 languages**.
 
-## 🚀 Getting Started
+## 🚀 Live Demo
+https://algorithm-visualizer-engine.streamlit.app/
 
 ### 1. Install Dependencies
 ```bash
