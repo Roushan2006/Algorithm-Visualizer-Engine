@@ -11,6 +11,7 @@ def _step(arr, highlights=None, description="", comparisons=0, swaps=0):
     }
 
 
+
 # ─── Linear Search ───────────────────────────────────────────────────────────
 def linear_search_steps(arr, target):
     steps = []
